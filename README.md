@@ -43,13 +43,12 @@ O código da balança foi desenvolvido do zero, utilizando o Arduino UNO e a lin
 
 ## Como Montar o Circuito
 
-Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis na pasta [imagens](link_da_pasta_imagens) deste repositório.
+Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis na pasta [imagens](https://github.com/PATRICIAJUNQUEIRA/Projeto-Balanca/tree/master/Imagens-Balanca) deste repositório.
 
 ## Participantes
 
 - Michele Fernandes dos Santos
 - Patricia Miranda e Silva
-- Jonas Novais
 - Pamela Borges
 - Beatriz Christinny Martins
 - Eloy D'Avila Menna Barreto
@@ -57,8 +56,7 @@ Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis
 
 ## Implementação e Contribuições
 
-O código-fonte completo do projeto está disponível no [Link do repositório](https://github.com/PATRICIAJUNQUEIRA/Projeto-Balanca/blob/master/Balanca.ino)
-. Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para criar issues ou pull requests.
+O código-fonte completo do projeto está disponível no [repositório deste projeto](https://github.com/PATRICIAJUNQUEIRA/Projeto-Balanca/blob/master/Balanca.ino). Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para criar issues ou pull requests.
 
 ## Licença
 
