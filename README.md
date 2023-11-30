@@ -29,16 +29,21 @@ O código da balança foi desenvolvido do zero, utilizando o Arduino UNO e a lin
 1. **Configuração do Ambiente:**
    - Instalação e configuração do ambiente de desenvolvimento Arduino.
 
-2. **Leitura da Célula de Carga:**
+2. **Bibliotecas Utilizadas:**
+   - `Wire.h`: Biblioteca para comunicação I2C.
+   - `LiquidCrystal_I2C.h`: Biblioteca para controle de displays LCD I2C.
+   - `HX711.h`: Biblioteca para interação com a célula de carga HX711.
+
+3. **Leitura da Célula de Carga:**
    - Desenvolvimento de rotinas para leitura precisa dos valores da célula de carga.
 
-3. **Interação com o LCD:**
+4. **Interação com o LCD:**
    - Implementação de funcionalidades para interação com o usuário através do LCD.
 
-4. **Controle por Botões:**
+5. **Controle por Botões:**
    - Programação dos botões para tarar a balança e ajustar o valor de amido.
 
-5. **Integração com o Motor:**
+6. **Integração com o Motor:**
    - Lógica de controle para o motor vibrar a peneira de maneira eficiente.
 
 ## Como Montar o Circuito
@@ -60,4 +65,13 @@ O código-fonte completo do projeto está disponível no [repositório deste pro
 
 ## Licença
 
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
+**Você é livre para:**
+
+- Copiar o código.
+- Modificar o código.
+- Integrar o código em seu próprio projeto.
+- Utilizar o código para fins comerciais.
+
+**Sob as condições:**
+
+- Incluir a nota de licença e o aviso de copyright no software ou documentação associada.
