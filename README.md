@@ -53,6 +53,7 @@ Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis
 ## Participantes
 
 - Michele Fernandes dos Santos
+- Jonas Novais
 - Patricia Miranda e Silva
 - Pamela Borges
 - Beatriz Christinny Martins
