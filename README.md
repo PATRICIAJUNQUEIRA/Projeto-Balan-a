@@ -27,6 +27,15 @@ O projeto foi implementado utilizando Arduino UNO e a linguagem de programação
 
 Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis na pasta [imagens](link_da_pasta_imagens) deste repositório.
 
+## Participantes
+
+- Michele Fernandes dos Santos
+- Patricia Miranda e Silva
+- Pamela Borges
+- Beatriz Christinny Martins
+- Eloy D'Avila Menna Barreto
+- Guilherme Ribeiro de Almeida
+
 ## Contribuições
 
 Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para criar issues ou pull requests.
