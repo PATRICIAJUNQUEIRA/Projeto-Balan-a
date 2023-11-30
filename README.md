@@ -57,7 +57,8 @@ Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis
 
 ## Implementação e Contribuições
 
-O código-fonte completo do projeto está disponível no [repositório deste projeto](link_do_seu_repositorio). Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para criar issues ou pull requests.
+O código-fonte completo do projeto está disponível no [Link do repositório](https://github.com/PATRICIAJUNQUEIRA/Projeto-Balanca)
+. Contribuições são bem-vindas! Se você identificar melhorias ou correções, sinta-se à vontade para criar issues ou pull requests.
 
 ## Licença
 
