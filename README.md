@@ -49,6 +49,7 @@ Para montar o circuito, siga as instruções detalhadas nas imagens disponíveis
 
 - Michele Fernandes dos Santos
 - Patricia Miranda e Silva
+- Jonas Novais
 - Pamela Borges
 - Beatriz Christinny Martins
 - Eloy D'Avila Menna Barreto
