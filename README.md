@@ -26,24 +26,24 @@ O projeto foi concebido integralmente, desde a construção física da caixa at�
 
 O código da balança foi desenvolvido do zero, utilizando o Arduino UNO e a linguagem de programação C++. O processo de implementação seguiu os seguintes passos:
 
-1. **Configuração do Ambiente:**
+2.1. **Configuração do Ambiente:**
    - Instalação e configuração do ambiente de desenvolvimento Arduino.
 
-2. **Bibliotecas Utilizadas:**
+2.2. **Bibliotecas Utilizadas:**
    - `Wire.h`: Biblioteca para comunicação I2C.
    - `LiquidCrystal_I2C.h`: Biblioteca para controle de displays LCD I2C.
    - `HX711.h`: Biblioteca para interação com a célula de carga HX711.
 
-3. **Leitura da Célula de Carga:**
+2.3. **Leitura da Célula de Carga:**
    - Desenvolvimento de rotinas para leitura precisa dos valores da célula de carga.
 
-4. **Interação com o LCD:**
+2.4. **Interação com o LCD:**
    - Implementação de funcionalidades para interação com o usuário através do LCD.
 
-5. **Controle por Botões:**
+2.5. **Controle por Botões:**
    - Programação dos botões para tarar a balança e ajustar o valor de amido.
 
-6. **Integração com o Motor:**
+2.6. **Integração com o Motor:**
    - Lógica de controle para o motor vibrar a peneira de maneira eficiente.
 
 ## Como Montar o Circuito
