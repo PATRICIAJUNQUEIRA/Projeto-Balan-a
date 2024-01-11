@@ -14,11 +14,11 @@ O projeto foi concebido integralmente, desde a construção física da caixa at�
    - MDF para a caixa.
    - Componentes eletrônicos (Arduino, LCD, botões, motor, célula de carga).
 
-2. **Construção da Estrutura:**
+1.2. **Construção da Estrutura:**
    - Corte e montagem do MDF conforme as dimensões especificadas.
    - Posicionamento adequado para acomodar os componentes eletrônicos.
 
-3. **Adaptações Necessárias:**
+1.3. **Adaptações Necessárias:**
    - Inclusão de suporte para o motor na caixa maior.
    - Preparação para fixação da célula de carga e demais componentes.
 
